@@ -6,7 +6,7 @@ This repository contains the source code for a weather station web app developed
 **Setup Instructions**
 
 *Clone the repository:*
-https://github.com/sharbas/WeatherApp_ZestyBeanz
+https://github.com/sharbas/WeatherApp_ZestyBeanz.git
 
 *Install Dependecies:*
 npm install
