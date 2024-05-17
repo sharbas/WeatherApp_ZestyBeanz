@@ -31,7 +31,7 @@ function Weather() {
           });
       };
 
-      console.log('weatherrrr',weather);
+     
   return (
   
      
@@ -76,10 +76,7 @@ function Weather() {
     </div>
   </div>
  
- 
-      
-     
-    
+
   )
 }
 
